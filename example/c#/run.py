@@ -1,2 +1,2 @@
 from os import system
-system("mono main.cs")
+system("csc main.cs && mono main.exe")
