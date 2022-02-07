@@ -1,7 +1,7 @@
 # programming-languages-together
 Have you ever crossed your mind how to run more than one programming language in one project?
 
- If the answer is yes, then you will like this post
+ If the answer is yes, then you will like this project
 
  I have always heard that the Facebook website is built in PHP but in the recent period, several other languages ​​have been used, such as Python to perform a specific function such as analyzing images and detecting defective ones 
 
