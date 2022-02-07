@@ -20,3 +20,5 @@ Have you ever crossed your mind how to run more than one programming language in
  In this case, you will run another language in the same way that you run it on the command line 
 
  This case distinguishes that it is less expensive than the first method 
+
+If you want to experience running the full languages ​​from the project, you must download the languages ​​you want to run on the command line 
