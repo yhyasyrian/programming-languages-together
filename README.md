@@ -9,9 +9,9 @@ Have you ever crossed your mind how to run more than one programming language in
 
  Today, you can use two or more programming languages ​​in your project in several ways, including:
 
- 1- Create an API that performs a specific function on an external server and link it to your project 
+ * Create an API that performs a specific function on an external server and link it to your project 
 
- 2-Using some methods that implement shell script codes 
+ * Using some methods that implement shell script codes 
 
  Well what does shellscript mean:
 
