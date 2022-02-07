@@ -22,3 +22,12 @@ Have you ever crossed your mind how to run more than one programming language in
  This case distinguishes that it is less expensive than the first method 
 
 If you want to experience running the full languages ​​from the project, you must download the languages ​​you want to run on the command line 
+
+Install Languages In Termux: 
+```
+pkg update && pkg upgrade && pkg install php python python3 clang mono nodejs
+```
+Install Languages In Ubuntu:
+```
+sudo apt update && sudo apt upgrade && sudo apt install build-essential && sudo apt-get install manpages-dev &&sudo apt install php python python3 clang mono nodejs 
+```
